@@ -1,0 +1,16 @@
+com.google.android.apps.nbu.paisa.user
+GooglePay.apk
+com.google.android.talk
+Hangouts.apk
+bubbleshooter.orig
+BubbleShooter.apk
+com.vsco.cam
+VSCO.apk
+net.one97.paytm
+Paytm.apk
+com.ubercab
+Uber.apk
+com.snapchat.android
+Snapchat.apk
+com.instagram.android
+Instagram.apk

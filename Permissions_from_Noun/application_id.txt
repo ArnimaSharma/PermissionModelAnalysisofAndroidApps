@@ -1,0 +1,4 @@
+com.whatsapp
+com.application.zomato
+com.facebook.katana
+com.king.candycrushsaga

@@ -1,0 +1,9 @@
+Requirements
+1. Python 3.7
+2. Spacy: pip install -U spacy
+		  python -m spacy download en 
+3. nltk : pip install -U nltk
+4. SQL Workbench: https://dev.mysql.com/downloads/windows/installer/8.0.html
+				  Choose Windows (x86, 32-bit), MSI Installer, 324.3 M, Version 8.0.15
+5. mysql connector : pip install mysql-connector-python
+6. Play Scraper: pip install play-scraper

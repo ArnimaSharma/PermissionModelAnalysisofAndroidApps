@@ -1,0 +1,64 @@
+Google Pay (Tez) - a simple and secure payment app
+Analysis of Manifest and Description:
+['INTERNET', 'STORAGE', 'LOCATION', 'PHONE', 'CAMERA', 'CONTACTS', 'ANDROID.PERMISSION.NFC']
+
+Extra permissions (By Static Code Analysis):
+['com.google.android.apps.walletnfcrel.permission.C2D_MESSAGE', 'com.felicanetworks.mfc.permission.MFC_ACCESS', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.USE_FINGERPRINT', 'android.permission.GET_PACKAGE_SIZE']
+
+
+Hangouts
+Analysis of Manifest and Description:
+['ANDROID.PERMISSION.USE_CREDENTIALS', 'INTERNET', 'SMS', 'ANDROID.PERMISSION.MANAGE_ACCOUNTS', 'BLUETOOTH', 'LOCATION', 'STORAGE', 'CAMERA', 'ANDROID.PERMISSION.NFC']
+
+Extra permissions (By Static Code Analysis):
+['android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_CONTACTS', 'com.google.android.talk.permission.C2D_MESSAGE', 'android.permission.RECEIVE_SMS', 'android.permission.READ_SMS', 'android.permission.RECEIVE_MMS', 'android.permission.CHANGE_NETWORK_STATE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.WRITE_CONTACTS', 'android.permission.GET_PACKAGE_SIZE', 'android.permission.WRITE_SMS']
+
+
+Bubble Shooter
+Analysis of Manifest and Description:
+[]
+
+Extra permissions (By Static Code Analysis):
+['bubbleshooter.orig.permission.C2D_MESSAGE']
+
+
+VSCO
+Analysis of Manifest and Description:
+['LOCATION']
+
+Extra permissions (By Static Code Analysis):
+['com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.READ_CONTACTS', 'com.samsung.android.iap.permission.BILLING', 'android.permission.RECEIVE_BOOT_COMPLETED']
+
+
+Mobile Recharge, UPI, Bill Payment, Money Transfer
+Analysis of Manifest and Description:
+['ANDROID.PERMISSION.USE_CREDENTIALS', 'SMS', 'ANDROID.PERMISSION.MANAGE_ACCOUNTS', 'LOCATION', 'ANDROID.PERMISSION.AUTHENTICATE_ACCOUNTS', 'ANDROID.PERMISSION.CHANGE_WIFI_STATE']
+
+Extra permissions (By Static Code Analysis):
+['net.one97.paytm.upi.provider.permission.WRITE_MODES', 'android.permission.INTERACT_ACROSS_USERS_FULL', 'net.one97.paytm.permission.C2D_MESSAGE', 'android.permission.ACCESS_GPS', 'android.permission.RECEIVE_BOOT_COMPLETED', 'net.one97.paytm.upi.provider.permission.READ_MODES', 'android.permission.ACCESS_LOCATION', 'net.one97.paytm.permission.LAYER_PUSH', 'android.permission.READ_CONTACTS', 'android.permission.READ_SMS', 'android.permission.RECEIVE_SMS', 'net.one97.paytm.permission.UA_DATA', 'android.permission.WRITE_CONTACTS', 'net.one97.paytm.permission.RECEIVE_ADM_MESSAGE', 'com.amazon.device.messaging.permission.RECEIVE', 'android.permission.READ_LOGS']
+
+
+Uber
+Analysis of Manifest and Description:
+['ANDROID.PERMISSION.USE_CREDENTIALS', 'SMS', 'ANDROID.PERMISSION.READ_PROFILE', 'ANDROID.PERMISSION.MANAGE_ACCOUNTS', 'ANDROID.PERMISSION.SYSTEM_ALERT_WINDOW', 'BLUETOOTH']
+
+Extra permissions (By Static Code Analysis):
+['android.permission.SYSTEM_ALERT_WINDOW', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_SMS', 'android.permission.GET_ACCOUNTS', 'android.permission.READ_CONTACTS', 'com.ubercab.permission.C2D_MESSAGE', 'com.google.android.providers.gsf.permission.READ_GSERVICES', 'android.permission.FOREGROUND_SERVICE']
+
+
+Snapchat
+Analysis of Manifest and Description:
+['BLUETOOTH', 'ANDROID.PERMISSION.READ_PROFILE', 'ANDROID.PERMISSION.CHANGE_WIFI_STATE']
+
+Extra permissions (By Static Code Analysis):
+['me.everything.badger.permission.BADGE_COUNT_READ', 'android.permission.READ_CONTACTS', 'com.oppo.launcher.permission.WRITE_SETTINGS', 'com.sec.android.provider.badge.permission.READ', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'android.permission.READ_APP_BADGE', 'com.sonymobile.home.permission.PROVIDER_INSERT_BADGE', 'me.everything.badger.permission.BADGE_COUNT_WRITE', 'com.snapchat.android.permission.UPDATE_STICKER_INDEX', 'com.huawei.android.launcher.permission.READ_SETTINGS', 'com.sec.android.provider.badge.permission.WRITE', 'com.snapchat.android.permission.C2D_MESSAGE', 'com.huawei.android.launcher.permission.CHANGE_BADGE', 'com.oppo.launcher.permission.READ_SETTINGS', 'com.anddoes.launcher.permission.UPDATE_COUNT', 'android.permission.FOREGROUND_SERVICE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'com.majeur.launcher.permission.UPDATE_BADGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'com.huawei.android.launcher.permission.WRITE_SETTINGS', 'android.permission.CHANGE_NETWORK_STATE', 'com.htc.launcher.permission.READ_SETTINGS']
+
+
+Instagram
+Analysis of Manifest and Description:
+['ANDROID.PERMISSION.READ_PROFILE', 'ANDROID.PERMISSION.USE_CREDENTIALS']
+
+Extra permissions (By Static Code Analysis):
+['com.huawei.android.launcher.permission.CHANGE_BADGE', 'com.instagram.android..permission.RECEIVE_ADM_MESSAGE', 'com.sonyericsson.home.permission.BROADCAST_BADGE', 'android.permission.RECEIVE_BOOT_COMPLETED', 'android.permission.READ_CONTACTS', 'com.android.launcher.permission.UNINSTALL_SHORTCUT', 'com.instagram.android..permission.C2D_MESSAGE', 'com.instagram.direct.permission.DIRECT_APP_THREAD_STORE_SERVICE', 'com.htc.launcher.permission.UPDATE_SHORTCUT', 'com.amazon.device.messaging.permission.RECEIVE', 'com.instagram.direct.permission.PROTECTED_DEEPLINKING', 'com.htc.launcher.permission.READ_SETTINGS']
+
+

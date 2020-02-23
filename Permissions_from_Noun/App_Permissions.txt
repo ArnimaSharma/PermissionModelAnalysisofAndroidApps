@@ -1,0 +1,20 @@
+WhatsApp Messenger
+[' contacts', 'phone', 'storage', 'accounts', 'call log', ' microphone', 'SMS', 'sms', ' call log', ' phone', 'camera', 'location', 'microphone', 'internet', 'contacts']
+
+---------------------------------------------------------------------------
+
+Zomato - Restaurant Finder and Food Delivery App
+[' contacts', 'internet', 'phone', 'storage', 'call log', 'sms', ' microphone', ' phone', 'camera', 'microphone', 'system tools', 'location', 'contacts']
+
+---------------------------------------------------------------------------
+
+Facebook
+['internet', 'storage', 'sms', 'camera', ' internet', 'microphone', 'system tools', 'location', 'contacts']
+
+---------------------------------------------------------------------------
+
+Candy Crush Saga
+['phone', 'storage', 'location', 'camera', 'network state', 'microphone', 'internet', 'contacts']
+
+---------------------------------------------------------------------------
+
